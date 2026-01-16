@@ -1,1 +1,1 @@
-# coursera
+# coursera - course notes and projects
